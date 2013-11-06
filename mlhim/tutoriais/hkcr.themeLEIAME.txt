@@ -1,0 +1,5 @@
+Entrar como administrador no Plone, depois em Configuração do Site e em Diazo theme.
+Entrar aba Import Theme, selecionar o arquivo hkcr.theme.zip e clicar em importar. 
+
+
+Voltar a página inicial (clicar no logo do Plone) e o tema será carregado.
